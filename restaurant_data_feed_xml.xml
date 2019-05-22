@@ -1,0 +1,624 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Jeremy Theimer</Author>
+  <LastAuthor>Jeremy Theimer</LastAuthor>
+  <Created>2019-05-22T18:09:03Z</Created>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>17440</WindowHeight>
+  <WindowWidth>28040</WindowWidth>
+  <WindowTopX>5180</WindowTopX>
+  <WindowTopY>1860</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="restaurant_data_feed">
+  <Table ss:ExpandedColumnCount="11" ss:ExpandedRowCount="44" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="65" ss:DefaultRowHeight="16">
+   <Row>
+    <Cell><Data ss:Type="String">HQ ID</Data></Cell>
+    <Cell><Data ss:Type="String">RestaurantName</Data></Cell>
+    <Cell><Data ss:Type="String">LocationAddress</Data></Cell>
+    <Cell><Data ss:Type="String">PHex</Data></Cell>
+    <Cell><Data ss:Type="String">SHex</Data></Cell>
+    <Cell><Data ss:Type="String">restaurantWebsiteURL</Data></Cell>
+    <Cell><Data ss:Type="String">cnOrderingURL</Data></Cell>
+    <Cell><Data ss:Type="String">androidAppLink</Data></Cell>
+    <Cell><Data ss:Type="String">iOSAppLink</Data></Cell>
+    <Cell><Data ss:Type="String">linksenseLink</Data></Cell>
+    <Cell><Data ss:Type="String">mostrecentOrderLink</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">3079</Data></Cell>
+    <Cell><Data ss:Type="String">Gangadin</Data></Cell>
+    <Cell><Data ss:Type="String">12067 Ventura Place, Studio City, CA 91604</Data></Cell>
+    <Cell><Data ss:Type="String">#B42162</Data></Cell>
+    <Cell><Data ss:Type="String">#F8FFD3</Data></Cell>
+    <Cell><Data ss:Type="String">http://gangadinonline.com</Data></Cell>
+    <Cell><Data ss:Type="String">https://ordering.chownow.com/order/3079/locations/</Data></Cell>
+    <Cell><Data ss:Type="String">https://play.google.com/store/apps/details?id=com.chownow.gangadin</Data></Cell>
+    <Cell><Data ss:Type="String">https://itunes.apple.com/us/app/gangadin/id1034958649?mt=8</Data></Cell>
+    <Cell><Data ss:Type="String">http://lksn.se/Gangadin</Data></Cell>
+    <Cell><Data ss:Type="String">https://ordering.chownow.com/order/3079/locations/4029</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">3079</Data></Cell>
+    <Cell><Data ss:Type="String">Gangadin</Data></Cell>
+    <Cell><Data ss:Type="String">12067 Ventura Place, Studio City, CA 91604</Data></Cell>
+    <Cell><Data ss:Type="String">#B42162</Data></Cell>
+    <Cell><Data ss:Type="String">#F8FFD3</Data></Cell>
+    <Cell><Data ss:Type="String">http://gangadinonline.com</Data></Cell>
+    <Cell><Data ss:Type="String">https://ordering.chownow.com/order/3079/locations/</Data></Cell>
+    <Cell><Data ss:Type="String">https://play.google.com/store/apps/details?id=com.chownow.gangadin</Data></Cell>
+    <Cell><Data ss:Type="String">https://itunes.apple.com/us/app/gangadin/id1034958649?mt=8</Data></Cell>
+    <Cell><Data ss:Type="String">http://lksn.se/Gangadin</Data></Cell>
+    <Cell><Data ss:Type="String">https://ordering.chownow.com/order/3079/locations/4029</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">3079</Data></Cell>
+    <Cell><Data ss:Type="String">Gangadin</Data></Cell>
+    <Cell><Data ss:Type="String">12067 Ventura Place, Studio City, CA 91604</Data></Cell>
+    <Cell><Data ss:Type="String">#B42162</Data></Cell>
+    <Cell><Data ss:Type="String">#F8FFD3</Data></Cell>
+    <Cell><Data ss:Type="String">http://gangadinonline.com</Data></Cell>
+    <Cell><Data ss:Type="String">https://ordering.chownow.com/order/3079/locations/</Data></Cell>
+    <Cell><Data ss:Type="String">https://play.google.com/store/apps/details?id=com.chownow.gangadin</Data></Cell>
+    <Cell><Data ss:Type="String">https://itunes.apple.com/us/app/gangadin/id1034958649?mt=8</Data></Cell>
+    <Cell><Data ss:Type="String">http://lksn.se/Gangadin</Data></Cell>
+    <Cell><Data ss:Type="String">https://ordering.chownow.com/order/3079/locations/4029</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5503</Data></Cell>
+    <Cell><Data ss:Type="String">Gourmet Fit</Data></Cell>
+    <Cell><Data ss:Type="String">6819 3rd Ave, Brooklyn, NY 11220</Data></Cell>
+    <Cell><Data ss:Type="String">#81C03A</Data></Cell>
+    <Cell><Data ss:Type="String">#F5F5F5</Data></Cell>
+    <Cell><Data ss:Type="String">https://www.gourmetfit.net/</Data></Cell>
+    <Cell><Data ss:Type="String">https://ordering.chownow.com/order/5503/locations/</Data></Cell>
+    <Cell><Data ss:Type="String">https://play.google.com/store/apps/details?id=com.chownow.gourmetfit</Data></Cell>
+    <Cell><Data ss:Type="String">https://itunes.apple.com/us/app/gourmet-fit/id1136446450?mt=8</Data></Cell>
+    <Cell><Data ss:Type="String">http://lksn.se/gourmetfit</Data></Cell>
+    <Cell><Data ss:Type="String">https://ordering.chownow.com/order/5503/locations/7205</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5503</Data></Cell>
+    <Cell><Data ss:Type="String">Gourmet Fit</Data></Cell>
+    <Cell><Data ss:Type="String">6819 3rd Ave, Brooklyn, NY 11220</Data></Cell>
+    <Cell><Data ss:Type="String">#81C03A</Data></Cell>
+    <Cell><Data ss:Type="String">#F5F5F5</Data></Cell>
+    <Cell><Data ss:Type="String">https://www.gourmetfit.net/</Data></Cell>
+    <Cell><Data ss:Type="String">https://ordering.chownow.com/order/5503/locations/</Data></Cell>
+    <Cell><Data ss:Type="String">https://play.google.com/store/apps/details?id=com.chownow.gourmetfit</Data></Cell>
+    <Cell><Data ss:Type="String">https://itunes.apple.com/us/app/gourmet-fit/id1136446450?mt=8</Data></Cell>
+    <Cell><Data ss:Type="String">http://lksn.se/gourmetfit</Data></Cell>
+    <Cell><Data ss:Type="String">https://ordering.chownow.com/order/5503/locations/7205</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">6203</Data></Cell>
+    <Cell><Data ss:Type="String">Red Hawk Grille</Data></Cell>
+    <Cell><Data ss:Type="String">7481 Auburn Rd, Painesville, OH 44077</Data></Cell>
+    <Cell><Data ss:Type="String">#A33329</Data></Cell>
+    <Cell><Data ss:Type="String">#F5F5F5</Data></Cell>
+    <Cell><Data ss:Type="String">https://www.redhawkgrille.com/</Data></Cell>
+    <Cell><Data ss:Type="String">https://ordering.chownow.com/order/6203/locations/</Data></Cell>
+    <Cell><Data ss:Type="String">https://play.google.com/store/apps/details?id=com.chownow.redhawkgrille</Data></Cell>
+    <Cell><Data ss:Type="String">https://itunes.apple.com/us/app/red-hawk-grille/id1169208402?mt=8</Data></Cell>
+    <Cell><Data ss:Type="String">http://lksn.se/redhawk</Data></Cell>
+    <Cell><Data ss:Type="String">https://ordering.chownow.com/order/6203/locations/8177</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">6203</Data></Cell>
+    <Cell><Data ss:Type="String">Red Hawk Grille</Data></Cell>
+    <Cell><Data ss:Type="String">7481 Auburn Rd, Painesville, OH 44077</Data></Cell>
+    <Cell><Data ss:Type="String">#A33329</Data></Cell>
+    <Cell><Data ss:Type="String">#F5F5F5</Data></Cell>
+    <Cell><Data ss:Type="String">https://www.redhawkgrille.com/</Data></Cell>
+    <Cell><Data ss:Type="String">https://ordering.chownow.com/order/6203/locations/</Data></Cell>
+    <Cell><Data ss:Type="String">https://play.google.com/store/apps/details?id=com.chownow.redhawkgrille</Data></Cell>
+    <Cell><Data ss:Type="String">https://itunes.apple.com/us/app/red-hawk-grille/id1169208402?mt=8</Data></Cell>
+    <Cell><Data ss:Type="String">http://lksn.se/redhawk</Data></Cell>
+    <Cell><Data ss:Type="String">https://ordering.chownow.com/order/6203/locations/8177</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">6203</Data></Cell>
+    <Cell><Data ss:Type="String">Red Hawk Grille</Data></Cell>
+    <Cell><Data ss:Type="String">7481 Auburn Rd, Painesville, OH 44077</Data></Cell>
+    <Cell><Data ss:Type="String">#A33329</Data></Cell>
+    <Cell><Data ss:Type="String">#F5F5F5</Data></Cell>
+    <Cell><Data ss:Type="String">https://www.redhawkgrille.com/</Data></Cell>
+    <Cell><Data ss:Type="String">https://ordering.chownow.com/order/6203/locations/</Data></Cell>
+    <Cell><Data ss:Type="String">https://play.google.com/store/apps/details?id=com.chownow.redhawkgrille</Data></Cell>
+    <Cell><Data ss:Type="String">https://itunes.apple.com/us/app/red-hawk-grille/id1169208402?mt=8</Data></Cell>
+    <Cell><Data ss:Type="String">http://lksn.se/redhawk</Data></Cell>
+    <Cell><Data ss:Type="String">https://ordering.chownow.com/order/6203/locations/8177</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">6203</Data></Cell>
+    <Cell><Data ss:Type="String">Red Hawk Grille</Data></Cell>
+    <Cell><Data ss:Type="String">7481 Auburn Rd, Painesville, OH 44077</Data></Cell>
+    <Cell><Data ss:Type="String">#A33329</Data></Cell>
+    <Cell><Data ss:Type="String">#F5F5F5</Data></Cell>
+    <Cell><Data ss:Type="String">https://www.redhawkgrille.com/</Data></Cell>
+    <Cell><Data ss:Type="String">https://ordering.chownow.com/order/6203/locations/</Data></Cell>
+    <Cell><Data ss:Type="String">https://play.google.com/store/apps/details?id=com.chownow.redhawkgrille</Data></Cell>
+    <Cell><Data ss:Type="String">https://itunes.apple.com/us/app/red-hawk-grille/id1169208402?mt=8</Data></Cell>
+    <Cell><Data ss:Type="String">http://lksn.se/redhawk</Data></Cell>
+    <Cell><Data ss:Type="String">https://ordering.chownow.com/order/6203/locations/8177</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">6203</Data></Cell>
+    <Cell><Data ss:Type="String">Red Hawk Grille</Data></Cell>
+    <Cell><Data ss:Type="String">7481 Auburn Rd, Painesville, OH 44077</Data></Cell>
+    <Cell><Data ss:Type="String">#A33329</Data></Cell>
+    <Cell><Data ss:Type="String">#F5F5F5</Data></Cell>
+    <Cell><Data ss:Type="String">https://www.redhawkgrille.com/</Data></Cell>
+    <Cell><Data ss:Type="String">https://ordering.chownow.com/order/6203/locations/</Data></Cell>
+    <Cell><Data ss:Type="String">https://play.google.com/store/apps/details?id=com.chownow.redhawkgrille</Data></Cell>
+    <Cell><Data ss:Type="String">https://itunes.apple.com/us/app/red-hawk-grille/id1169208402?mt=8</Data></Cell>
+    <Cell><Data ss:Type="String">http://lksn.se/redhawk</Data></Cell>
+    <Cell><Data ss:Type="String">https://ordering.chownow.com/order/6203/locations/8177</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">6203</Data></Cell>
+    <Cell><Data ss:Type="String">Red Hawk Grille</Data></Cell>
+    <Cell><Data ss:Type="String">7481 Auburn Rd, Painesville, OH 44077</Data></Cell>
+    <Cell><Data ss:Type="String">#A33329</Data></Cell>
+    <Cell><Data ss:Type="String">#F5F5F5</Data></Cell>
+    <Cell><Data ss:Type="String">https://www.redhawkgrille.com/</Data></Cell>
+    <Cell><Data ss:Type="String">https://ordering.chownow.com/order/6203/locations/</Data></Cell>
+    <Cell><Data ss:Type="String">https://play.google.com/store/apps/details?id=com.chownow.redhawkgrille</Data></Cell>
+    <Cell><Data ss:Type="String">https://itunes.apple.com/us/app/red-hawk-grille/id1169208402?mt=8</Data></Cell>
+    <Cell><Data ss:Type="String">http://lksn.se/redhawk</Data></Cell>
+    <Cell><Data ss:Type="String">https://ordering.chownow.com/order/6203/locations/8177</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">6203</Data></Cell>
+    <Cell><Data ss:Type="String">Red Hawk Grille</Data></Cell>
+    <Cell><Data ss:Type="String">7481 Auburn Rd, Painesville, OH 44077</Data></Cell>
+    <Cell><Data ss:Type="String">#A33329</Data></Cell>
+    <Cell><Data ss:Type="String">#F5F5F5</Data></Cell>
+    <Cell><Data ss:Type="String">https://www.redhawkgrille.com/</Data></Cell>
+    <Cell><Data ss:Type="String">https://ordering.chownow.com/order/6203/locations/</Data></Cell>
+    <Cell><Data ss:Type="String">https://play.google.com/store/apps/details?id=com.chownow.redhawkgrille</Data></Cell>
+    <Cell><Data ss:Type="String">https://itunes.apple.com/us/app/red-hawk-grille/id1169208402?mt=8</Data></Cell>
+    <Cell><Data ss:Type="String">http://lksn.se/redhawk</Data></Cell>
+    <Cell><Data ss:Type="String">https://ordering.chownow.com/order/6203/locations/8177</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">6203</Data></Cell>
+    <Cell><Data ss:Type="String">Red Hawk Grille</Data></Cell>
+    <Cell><Data ss:Type="String">7481 Auburn Rd, Painesville, OH 44077</Data></Cell>
+    <Cell><Data ss:Type="String">#A33329</Data></Cell>
+    <Cell><Data ss:Type="String">#F5F5F5</Data></Cell>
+    <Cell><Data ss:Type="String">https://www.redhawkgrille.com/</Data></Cell>
+    <Cell><Data ss:Type="String">https://ordering.chownow.com/order/6203/locations/</Data></Cell>
+    <Cell><Data ss:Type="String">https://play.google.com/store/apps/details?id=com.chownow.redhawkgrille</Data></Cell>
+    <Cell><Data ss:Type="String">https://itunes.apple.com/us/app/red-hawk-grille/id1169208402?mt=8</Data></Cell>
+    <Cell><Data ss:Type="String">http://lksn.se/redhawk</Data></Cell>
+    <Cell><Data ss:Type="String">https://ordering.chownow.com/order/6203/locations/8177</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">6203</Data></Cell>
+    <Cell><Data ss:Type="String">Red Hawk Grille</Data></Cell>
+    <Cell><Data ss:Type="String">7481 Auburn Rd, Painesville, OH 44077</Data></Cell>
+    <Cell><Data ss:Type="String">#A33329</Data></Cell>
+    <Cell><Data ss:Type="String">#F5F5F5</Data></Cell>
+    <Cell><Data ss:Type="String">https://www.redhawkgrille.com/</Data></Cell>
+    <Cell><Data ss:Type="String">https://ordering.chownow.com/order/6203/locations/</Data></Cell>
+    <Cell><Data ss:Type="String">https://play.google.com/store/apps/details?id=com.chownow.redhawkgrille</Data></Cell>
+    <Cell><Data ss:Type="String">https://itunes.apple.com/us/app/red-hawk-grille/id1169208402?mt=8</Data></Cell>
+    <Cell><Data ss:Type="String">http://lksn.se/redhawk</Data></Cell>
+    <Cell><Data ss:Type="String">https://ordering.chownow.com/order/6203/locations/8177</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">6203</Data></Cell>
+    <Cell><Data ss:Type="String">Red Hawk Grille</Data></Cell>
+    <Cell><Data ss:Type="String">7481 Auburn Rd, Painesville, OH 44077</Data></Cell>
+    <Cell><Data ss:Type="String">#A33329</Data></Cell>
+    <Cell><Data ss:Type="String">#F5F5F5</Data></Cell>
+    <Cell><Data ss:Type="String">https://www.redhawkgrille.com/</Data></Cell>
+    <Cell><Data ss:Type="String">https://ordering.chownow.com/order/6203/locations/</Data></Cell>
+    <Cell><Data ss:Type="String">https://play.google.com/store/apps/details?id=com.chownow.redhawkgrille</Data></Cell>
+    <Cell><Data ss:Type="String">https://itunes.apple.com/us/app/red-hawk-grille/id1169208402?mt=8</Data></Cell>
+    <Cell><Data ss:Type="String">http://lksn.se/redhawk</Data></Cell>
+    <Cell><Data ss:Type="String">https://ordering.chownow.com/order/6203/locations/8177</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">6203</Data></Cell>
+    <Cell><Data ss:Type="String">Red Hawk Grille</Data></Cell>
+    <Cell><Data ss:Type="String">7481 Auburn Rd, Painesville, OH 44077</Data></Cell>
+    <Cell><Data ss:Type="String">#A33329</Data></Cell>
+    <Cell><Data ss:Type="String">#F5F5F5</Data></Cell>
+    <Cell><Data ss:Type="String">https://www.redhawkgrille.com/</Data></Cell>
+    <Cell><Data ss:Type="String">https://ordering.chownow.com/order/6203/locations/</Data></Cell>
+    <Cell><Data ss:Type="String">https://play.google.com/store/apps/details?id=com.chownow.redhawkgrille</Data></Cell>
+    <Cell><Data ss:Type="String">https://itunes.apple.com/us/app/red-hawk-grille/id1169208402?mt=8</Data></Cell>
+    <Cell><Data ss:Type="String">http://lksn.se/redhawk</Data></Cell>
+    <Cell><Data ss:Type="String">https://ordering.chownow.com/order/6203/locations/8177</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">6203</Data></Cell>
+    <Cell><Data ss:Type="String">Red Hawk Grille</Data></Cell>
+    <Cell><Data ss:Type="String">7481 Auburn Rd, Painesville, OH 44077</Data></Cell>
+    <Cell><Data ss:Type="String">#A33329</Data></Cell>
+    <Cell><Data ss:Type="String">#F5F5F5</Data></Cell>
+    <Cell><Data ss:Type="String">https://www.redhawkgrille.com/</Data></Cell>
+    <Cell><Data ss:Type="String">https://ordering.chownow.com/order/6203/locations/</Data></Cell>
+    <Cell><Data ss:Type="String">https://play.google.com/store/apps/details?id=com.chownow.redhawkgrille</Data></Cell>
+    <Cell><Data ss:Type="String">https://itunes.apple.com/us/app/red-hawk-grille/id1169208402?mt=8</Data></Cell>
+    <Cell><Data ss:Type="String">http://lksn.se/redhawk</Data></Cell>
+    <Cell><Data ss:Type="String">https://ordering.chownow.com/order/6203/locations/8177</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">6203</Data></Cell>
+    <Cell><Data ss:Type="String">Red Hawk Grille</Data></Cell>
+    <Cell><Data ss:Type="String">7481 Auburn Rd, Painesville, OH 44077</Data></Cell>
+    <Cell><Data ss:Type="String">#A33329</Data></Cell>
+    <Cell><Data ss:Type="String">#F5F5F5</Data></Cell>
+    <Cell><Data ss:Type="String">https://www.redhawkgrille.com/</Data></Cell>
+    <Cell><Data ss:Type="String">https://ordering.chownow.com/order/6203/locations/</Data></Cell>
+    <Cell><Data ss:Type="String">https://play.google.com/store/apps/details?id=com.chownow.redhawkgrille</Data></Cell>
+    <Cell><Data ss:Type="String">https://itunes.apple.com/us/app/red-hawk-grille/id1169208402?mt=8</Data></Cell>
+    <Cell><Data ss:Type="String">http://lksn.se/redhawk</Data></Cell>
+    <Cell><Data ss:Type="String">https://ordering.chownow.com/order/6203/locations/8177</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">6203</Data></Cell>
+    <Cell><Data ss:Type="String">Red Hawk Grille</Data></Cell>
+    <Cell><Data ss:Type="String">7481 Auburn Rd, Painesville, OH 44077</Data></Cell>
+    <Cell><Data ss:Type="String">#A33329</Data></Cell>
+    <Cell><Data ss:Type="String">#F5F5F5</Data></Cell>
+    <Cell><Data ss:Type="String">https://www.redhawkgrille.com/</Data></Cell>
+    <Cell><Data ss:Type="String">https://ordering.chownow.com/order/6203/locations/</Data></Cell>
+    <Cell><Data ss:Type="String">https://play.google.com/store/apps/details?id=com.chownow.redhawkgrille</Data></Cell>
+    <Cell><Data ss:Type="String">https://itunes.apple.com/us/app/red-hawk-grille/id1169208402?mt=8</Data></Cell>
+    <Cell><Data ss:Type="String">http://lksn.se/redhawk</Data></Cell>
+    <Cell><Data ss:Type="String">https://ordering.chownow.com/order/6203/locations/8177</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">6203</Data></Cell>
+    <Cell><Data ss:Type="String">Red Hawk Grille</Data></Cell>
+    <Cell><Data ss:Type="String">7481 Auburn Rd, Painesville, OH 44077</Data></Cell>
+    <Cell><Data ss:Type="String">#A33329</Data></Cell>
+    <Cell><Data ss:Type="String">#F5F5F5</Data></Cell>
+    <Cell><Data ss:Type="String">https://www.redhawkgrille.com/</Data></Cell>
+    <Cell><Data ss:Type="String">https://ordering.chownow.com/order/6203/locations/</Data></Cell>
+    <Cell><Data ss:Type="String">https://play.google.com/store/apps/details?id=com.chownow.redhawkgrille</Data></Cell>
+    <Cell><Data ss:Type="String">https://itunes.apple.com/us/app/red-hawk-grille/id1169208402?mt=8</Data></Cell>
+    <Cell><Data ss:Type="String">http://lksn.se/redhawk</Data></Cell>
+    <Cell><Data ss:Type="String">https://ordering.chownow.com/order/6203/locations/8177</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">6203</Data></Cell>
+    <Cell><Data ss:Type="String">Red Hawk Grille</Data></Cell>
+    <Cell><Data ss:Type="String">7481 Auburn Rd, Painesville, OH 44077</Data></Cell>
+    <Cell><Data ss:Type="String">#A33329</Data></Cell>
+    <Cell><Data ss:Type="String">#F5F5F5</Data></Cell>
+    <Cell><Data ss:Type="String">https://www.redhawkgrille.com/</Data></Cell>
+    <Cell><Data ss:Type="String">https://ordering.chownow.com/order/6203/locations/</Data></Cell>
+    <Cell><Data ss:Type="String">https://play.google.com/store/apps/details?id=com.chownow.redhawkgrille</Data></Cell>
+    <Cell><Data ss:Type="String">https://itunes.apple.com/us/app/red-hawk-grille/id1169208402?mt=8</Data></Cell>
+    <Cell><Data ss:Type="String">http://lksn.se/redhawk</Data></Cell>
+    <Cell><Data ss:Type="String">https://ordering.chownow.com/order/6203/locations/8177</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">6203</Data></Cell>
+    <Cell><Data ss:Type="String">Red Hawk Grille</Data></Cell>
+    <Cell><Data ss:Type="String">7481 Auburn Rd, Painesville, OH 44077</Data></Cell>
+    <Cell><Data ss:Type="String">#A33329</Data></Cell>
+    <Cell><Data ss:Type="String">#F5F5F5</Data></Cell>
+    <Cell><Data ss:Type="String">https://www.redhawkgrille.com/</Data></Cell>
+    <Cell><Data ss:Type="String">https://ordering.chownow.com/order/6203/locations/</Data></Cell>
+    <Cell><Data ss:Type="String">https://play.google.com/store/apps/details?id=com.chownow.redhawkgrille</Data></Cell>
+    <Cell><Data ss:Type="String">https://itunes.apple.com/us/app/red-hawk-grille/id1169208402?mt=8</Data></Cell>
+    <Cell><Data ss:Type="String">http://lksn.se/redhawk</Data></Cell>
+    <Cell><Data ss:Type="String">https://ordering.chownow.com/order/6203/locations/8177</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">6203</Data></Cell>
+    <Cell><Data ss:Type="String">Red Hawk Grille</Data></Cell>
+    <Cell><Data ss:Type="String">7481 Auburn Rd, Painesville, OH 44077</Data></Cell>
+    <Cell><Data ss:Type="String">#A33329</Data></Cell>
+    <Cell><Data ss:Type="String">#F5F5F5</Data></Cell>
+    <Cell><Data ss:Type="String">https://www.redhawkgrille.com/</Data></Cell>
+    <Cell><Data ss:Type="String">https://ordering.chownow.com/order/6203/locations/</Data></Cell>
+    <Cell><Data ss:Type="String">https://play.google.com/store/apps/details?id=com.chownow.redhawkgrille</Data></Cell>
+    <Cell><Data ss:Type="String">https://itunes.apple.com/us/app/red-hawk-grille/id1169208402?mt=8</Data></Cell>
+    <Cell><Data ss:Type="String">http://lksn.se/redhawk</Data></Cell>
+    <Cell><Data ss:Type="String">https://ordering.chownow.com/order/6203/locations/8177</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">6203</Data></Cell>
+    <Cell><Data ss:Type="String">Red Hawk Grille</Data></Cell>
+    <Cell><Data ss:Type="String">7481 Auburn Rd, Painesville, OH 44077</Data></Cell>
+    <Cell><Data ss:Type="String">#A33329</Data></Cell>
+    <Cell><Data ss:Type="String">#F5F5F5</Data></Cell>
+    <Cell><Data ss:Type="String">https://www.redhawkgrille.com/</Data></Cell>
+    <Cell><Data ss:Type="String">https://ordering.chownow.com/order/6203/locations/</Data></Cell>
+    <Cell><Data ss:Type="String">https://play.google.com/store/apps/details?id=com.chownow.redhawkgrille</Data></Cell>
+    <Cell><Data ss:Type="String">https://itunes.apple.com/us/app/red-hawk-grille/id1169208402?mt=8</Data></Cell>
+    <Cell><Data ss:Type="String">http://lksn.se/redhawk</Data></Cell>
+    <Cell><Data ss:Type="String">https://ordering.chownow.com/order/6203/locations/8177</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">6203</Data></Cell>
+    <Cell><Data ss:Type="String">Red Hawk Grille</Data></Cell>
+    <Cell><Data ss:Type="String">7481 Auburn Rd, Painesville, OH 44077</Data></Cell>
+    <Cell><Data ss:Type="String">#A33329</Data></Cell>
+    <Cell><Data ss:Type="String">#F5F5F5</Data></Cell>
+    <Cell><Data ss:Type="String">https://www.redhawkgrille.com/</Data></Cell>
+    <Cell><Data ss:Type="String">https://ordering.chownow.com/order/6203/locations/</Data></Cell>
+    <Cell><Data ss:Type="String">https://play.google.com/store/apps/details?id=com.chownow.redhawkgrille</Data></Cell>
+    <Cell><Data ss:Type="String">https://itunes.apple.com/us/app/red-hawk-grille/id1169208402?mt=8</Data></Cell>
+    <Cell><Data ss:Type="String">http://lksn.se/redhawk</Data></Cell>
+    <Cell><Data ss:Type="String">https://ordering.chownow.com/order/6203/locations/8177</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">6203</Data></Cell>
+    <Cell><Data ss:Type="String">Red Hawk Grille</Data></Cell>
+    <Cell><Data ss:Type="String">7481 Auburn Rd, Painesville, OH 44077</Data></Cell>
+    <Cell><Data ss:Type="String">#A33329</Data></Cell>
+    <Cell><Data ss:Type="String">#F5F5F5</Data></Cell>
+    <Cell><Data ss:Type="String">https://www.redhawkgrille.com/</Data></Cell>
+    <Cell><Data ss:Type="String">https://ordering.chownow.com/order/6203/locations/</Data></Cell>
+    <Cell><Data ss:Type="String">https://play.google.com/store/apps/details?id=com.chownow.redhawkgrille</Data></Cell>
+    <Cell><Data ss:Type="String">https://itunes.apple.com/us/app/red-hawk-grille/id1169208402?mt=8</Data></Cell>
+    <Cell><Data ss:Type="String">http://lksn.se/redhawk</Data></Cell>
+    <Cell><Data ss:Type="String">https://ordering.chownow.com/order/6203/locations/8177</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">6203</Data></Cell>
+    <Cell><Data ss:Type="String">Red Hawk Grille</Data></Cell>
+    <Cell><Data ss:Type="String">7481 Auburn Rd, Painesville, OH 44077</Data></Cell>
+    <Cell><Data ss:Type="String">#A33329</Data></Cell>
+    <Cell><Data ss:Type="String">#F5F5F5</Data></Cell>
+    <Cell><Data ss:Type="String">https://www.redhawkgrille.com/</Data></Cell>
+    <Cell><Data ss:Type="String">https://ordering.chownow.com/order/6203/locations/</Data></Cell>
+    <Cell><Data ss:Type="String">https://play.google.com/store/apps/details?id=com.chownow.redhawkgrille</Data></Cell>
+    <Cell><Data ss:Type="String">https://itunes.apple.com/us/app/red-hawk-grille/id1169208402?mt=8</Data></Cell>
+    <Cell><Data ss:Type="String">http://lksn.se/redhawk</Data></Cell>
+    <Cell><Data ss:Type="String">https://ordering.chownow.com/order/6203/locations/8177</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">6203</Data></Cell>
+    <Cell><Data ss:Type="String">Red Hawk Grille</Data></Cell>
+    <Cell><Data ss:Type="String">7481 Auburn Rd, Painesville, OH 44077</Data></Cell>
+    <Cell><Data ss:Type="String">#A33329</Data></Cell>
+    <Cell><Data ss:Type="String">#F5F5F5</Data></Cell>
+    <Cell><Data ss:Type="String">https://www.redhawkgrille.com/</Data></Cell>
+    <Cell><Data ss:Type="String">https://ordering.chownow.com/order/6203/locations/</Data></Cell>
+    <Cell><Data ss:Type="String">https://play.google.com/store/apps/details?id=com.chownow.redhawkgrille</Data></Cell>
+    <Cell><Data ss:Type="String">https://itunes.apple.com/us/app/red-hawk-grille/id1169208402?mt=8</Data></Cell>
+    <Cell><Data ss:Type="String">http://lksn.se/redhawk</Data></Cell>
+    <Cell><Data ss:Type="String">https://ordering.chownow.com/order/6203/locations/8177</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">6203</Data></Cell>
+    <Cell><Data ss:Type="String">Red Hawk Grille</Data></Cell>
+    <Cell><Data ss:Type="String">7481 Auburn Rd, Painesville, OH 44077</Data></Cell>
+    <Cell><Data ss:Type="String">#A33329</Data></Cell>
+    <Cell><Data ss:Type="String">#F5F5F5</Data></Cell>
+    <Cell><Data ss:Type="String">https://www.redhawkgrille.com/</Data></Cell>
+    <Cell><Data ss:Type="String">https://ordering.chownow.com/order/6203/locations/</Data></Cell>
+    <Cell><Data ss:Type="String">https://play.google.com/store/apps/details?id=com.chownow.redhawkgrille</Data></Cell>
+    <Cell><Data ss:Type="String">https://itunes.apple.com/us/app/red-hawk-grille/id1169208402?mt=8</Data></Cell>
+    <Cell><Data ss:Type="String">http://lksn.se/redhawk</Data></Cell>
+    <Cell><Data ss:Type="String">https://ordering.chownow.com/order/6203/locations/8177</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">6203</Data></Cell>
+    <Cell><Data ss:Type="String">Red Hawk Grille</Data></Cell>
+    <Cell><Data ss:Type="String">7481 Auburn Rd, Painesville, OH 44077</Data></Cell>
+    <Cell><Data ss:Type="String">#A33329</Data></Cell>
+    <Cell><Data ss:Type="String">#F5F5F5</Data></Cell>
+    <Cell><Data ss:Type="String">https://www.redhawkgrille.com/</Data></Cell>
+    <Cell><Data ss:Type="String">https://ordering.chownow.com/order/6203/locations/</Data></Cell>
+    <Cell><Data ss:Type="String">https://play.google.com/store/apps/details?id=com.chownow.redhawkgrille</Data></Cell>
+    <Cell><Data ss:Type="String">https://itunes.apple.com/us/app/red-hawk-grille/id1169208402?mt=8</Data></Cell>
+    <Cell><Data ss:Type="String">http://lksn.se/redhawk</Data></Cell>
+    <Cell><Data ss:Type="String">https://ordering.chownow.com/order/6203/locations/8177</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">6203</Data></Cell>
+    <Cell><Data ss:Type="String">Red Hawk Grille</Data></Cell>
+    <Cell><Data ss:Type="String">7481 Auburn Rd, Painesville, OH 44077</Data></Cell>
+    <Cell><Data ss:Type="String">#A33329</Data></Cell>
+    <Cell><Data ss:Type="String">#F5F5F5</Data></Cell>
+    <Cell><Data ss:Type="String">https://www.redhawkgrille.com/</Data></Cell>
+    <Cell><Data ss:Type="String">https://ordering.chownow.com/order/6203/locations/</Data></Cell>
+    <Cell><Data ss:Type="String">https://play.google.com/store/apps/details?id=com.chownow.redhawkgrille</Data></Cell>
+    <Cell><Data ss:Type="String">https://itunes.apple.com/us/app/red-hawk-grille/id1169208402?mt=8</Data></Cell>
+    <Cell><Data ss:Type="String">http://lksn.se/redhawk</Data></Cell>
+    <Cell><Data ss:Type="String">https://ordering.chownow.com/order/6203/locations/8177</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">6203</Data></Cell>
+    <Cell><Data ss:Type="String">Red Hawk Grille</Data></Cell>
+    <Cell><Data ss:Type="String">7481 Auburn Rd, Painesville, OH 44077</Data></Cell>
+    <Cell><Data ss:Type="String">#A33329</Data></Cell>
+    <Cell><Data ss:Type="String">#F5F5F5</Data></Cell>
+    <Cell><Data ss:Type="String">https://www.redhawkgrille.com/</Data></Cell>
+    <Cell><Data ss:Type="String">https://ordering.chownow.com/order/6203/locations/</Data></Cell>
+    <Cell><Data ss:Type="String">https://play.google.com/store/apps/details?id=com.chownow.redhawkgrille</Data></Cell>
+    <Cell><Data ss:Type="String">https://itunes.apple.com/us/app/red-hawk-grille/id1169208402?mt=8</Data></Cell>
+    <Cell><Data ss:Type="String">http://lksn.se/redhawk</Data></Cell>
+    <Cell><Data ss:Type="String">https://ordering.chownow.com/order/6203/locations/8177</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">6580</Data></Cell>
+    <Cell><Data ss:Type="String">Mayura Indian Restaurant</Data></Cell>
+    <Cell><Data ss:Type="String">10406 Venice Boulevard, Culver City, CA 90232</Data></Cell>
+    <Cell><Data ss:Type="String">#8A0000</Data></Cell>
+    <Cell><Data ss:Type="String">#F5F5F5</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.mayura-indian-restaurant.com/</Data></Cell>
+    <Cell><Data ss:Type="String">https://ordering.chownow.com/order/6580/locations/</Data></Cell>
+    <Cell><Data ss:Type="String">https://play.google.com/store/apps/details?id=com.chownow.mayuraindianrestaurant</Data></Cell>
+    <Cell><Data ss:Type="String">https://itunes.apple.com/us/app/mayura-indian-restaurant/id1177654361?mt=8</Data></Cell>
+    <Cell><Data ss:Type="String">http://lksn.se/Mayura</Data></Cell>
+    <Cell><Data ss:Type="String">https://ordering.chownow.com/order/6580/locations/8706</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">8042</Data></Cell>
+    <Cell><Data ss:Type="String">Irving St. Kitchen</Data></Cell>
+    <Cell><Data ss:Type="String">701 Northwest 13th Avenue, Portland, OR 97209</Data></Cell>
+    <Cell><Data ss:Type="String">#333333</Data></Cell>
+    <Cell><Data ss:Type="String">#000000</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.irvingstreetkitchen.com/</Data></Cell>
+    <Cell><Data ss:Type="String">https://ordering.chownow.com/order/8042/locations/</Data></Cell>
+    <Cell><Data ss:Type="String">https://play.google.com/store/apps/details?id=com.chownow.irvingstreetchicken</Data></Cell>
+    <Cell><Data ss:Type="String">https://itunes.apple.com/us/app/irving-street-chicken/id1228932222?mt=8</Data></Cell>
+    <Cell><Data ss:Type="String">http://lksn.se/ISC</Data></Cell>
+    <Cell><Data ss:Type="String">https://ordering.chownow.com/order/8042/locations/10803</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">8689</Data></Cell>
+    <Cell><Data ss:Type="String">Holly Crab</Data></Cell>
+    <Cell><Data ss:Type="String">1098 Commonwealth Ave, Boston, MA 02215</Data></Cell>
+    <Cell><Data ss:Type="String">#EB1C24</Data></Cell>
+    <Cell><Data ss:Type="String">#F5F5F5</Data></Cell>
+    <Cell><Data ss:Type="String">http://hollycrab.com/</Data></Cell>
+    <Cell><Data ss:Type="String">https://ordering.chownow.com/order/8689/locations/</Data></Cell>
+    <Cell><Data ss:Type="String">https://play.google.com/store/apps/details?id=com.chownow.holycrab</Data></Cell>
+    <Cell><Data ss:Type="String">https://itunes.apple.com/us/app/holy-crab/id1256024720?mt=8</Data></Cell>
+    <Cell><Data ss:Type="String">http://lksn.se/holycrab</Data></Cell>
+    <Cell><Data ss:Type="String">https://ordering.chownow.com/order/8689/locations/11750</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">8689</Data></Cell>
+    <Cell><Data ss:Type="String">Holly Crab</Data></Cell>
+    <Cell><Data ss:Type="String">1098 Commonwealth Ave, Boston, MA 02215</Data></Cell>
+    <Cell><Data ss:Type="String">#EB1C24</Data></Cell>
+    <Cell><Data ss:Type="String">#F5F5F5</Data></Cell>
+    <Cell><Data ss:Type="String">http://hollycrab.com/</Data></Cell>
+    <Cell><Data ss:Type="String">https://ordering.chownow.com/order/8689/locations/</Data></Cell>
+    <Cell><Data ss:Type="String">https://play.google.com/store/apps/details?id=com.chownow.holycrab</Data></Cell>
+    <Cell><Data ss:Type="String">https://itunes.apple.com/us/app/holy-crab/id1256024720?mt=8</Data></Cell>
+    <Cell><Data ss:Type="String">http://lksn.se/holycrab</Data></Cell>
+    <Cell><Data ss:Type="String">https://ordering.chownow.com/order/8689/locations/11750</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">8689</Data></Cell>
+    <Cell><Data ss:Type="String">Holly Crab</Data></Cell>
+    <Cell><Data ss:Type="String">1098 Commonwealth Ave, Boston, MA 02215</Data></Cell>
+    <Cell><Data ss:Type="String">#EB1C24</Data></Cell>
+    <Cell><Data ss:Type="String">#F5F5F5</Data></Cell>
+    <Cell><Data ss:Type="String">http://hollycrab.com/</Data></Cell>
+    <Cell><Data ss:Type="String">https://ordering.chownow.com/order/8689/locations/</Data></Cell>
+    <Cell><Data ss:Type="String">https://play.google.com/store/apps/details?id=com.chownow.holycrab</Data></Cell>
+    <Cell><Data ss:Type="String">https://itunes.apple.com/us/app/holy-crab/id1256024720?mt=8</Data></Cell>
+    <Cell><Data ss:Type="String">http://lksn.se/holycrab</Data></Cell>
+    <Cell><Data ss:Type="String">https://ordering.chownow.com/order/8689/locations/11750</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">8864</Data></Cell>
+    <Cell><Data ss:Type="String">Club Diner</Data></Cell>
+    <Cell><Data ss:Type="String">20 N Black Horse Pike, Bellmawr, NJ 08031</Data></Cell>
+    <Cell><Data ss:Type="String">#791615</Data></Cell>
+    <Cell><Data ss:Type="String">#f5f5f5</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.theclubdiner.com/</Data></Cell>
+    <Cell><Data ss:Type="String">https://ordering.chownow.com/order/8864/locations/</Data></Cell>
+    <Cell><Data ss:Type="String">https://play.google.com/store/apps/details?id=com.chownow.clubdiner</Data></Cell>
+    <Cell><Data ss:Type="String">https://itunes.apple.com/us/app/club-diner/id1282159723?mt=8</Data></Cell>
+    <Cell><Data ss:Type="String">http://lksn.se/clubdiner</Data></Cell>
+    <Cell><Data ss:Type="String">https://ordering.chownow.com/order/8864/locations/12013</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">8864</Data></Cell>
+    <Cell><Data ss:Type="String">Club Diner</Data></Cell>
+    <Cell><Data ss:Type="String">20 N Black Horse Pike, Bellmawr, NJ 08031</Data></Cell>
+    <Cell><Data ss:Type="String">#791615</Data></Cell>
+    <Cell><Data ss:Type="String">#f5f5f5</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.theclubdiner.com/</Data></Cell>
+    <Cell><Data ss:Type="String">https://ordering.chownow.com/order/8864/locations/</Data></Cell>
+    <Cell><Data ss:Type="String">https://play.google.com/store/apps/details?id=com.chownow.clubdiner</Data></Cell>
+    <Cell><Data ss:Type="String">https://itunes.apple.com/us/app/club-diner/id1282159723?mt=8</Data></Cell>
+    <Cell><Data ss:Type="String">http://lksn.se/clubdiner</Data></Cell>
+    <Cell><Data ss:Type="String">https://ordering.chownow.com/order/8864/locations/12013</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">8864</Data></Cell>
+    <Cell><Data ss:Type="String">Club Diner</Data></Cell>
+    <Cell><Data ss:Type="String">20 N Black Horse Pike, Bellmawr, NJ 08031</Data></Cell>
+    <Cell><Data ss:Type="String">#791615</Data></Cell>
+    <Cell><Data ss:Type="String">#f5f5f5</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.theclubdiner.com/</Data></Cell>
+    <Cell><Data ss:Type="String">https://ordering.chownow.com/order/8864/locations/</Data></Cell>
+    <Cell><Data ss:Type="String">https://play.google.com/store/apps/details?id=com.chownow.clubdiner</Data></Cell>
+    <Cell><Data ss:Type="String">https://itunes.apple.com/us/app/club-diner/id1282159723?mt=8</Data></Cell>
+    <Cell><Data ss:Type="String">http://lksn.se/clubdiner</Data></Cell>
+    <Cell><Data ss:Type="String">https://ordering.chownow.com/order/8864/locations/12013</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">8864</Data></Cell>
+    <Cell><Data ss:Type="String">Club Diner</Data></Cell>
+    <Cell><Data ss:Type="String">20 N Black Horse Pike, Bellmawr, NJ 08031</Data></Cell>
+    <Cell><Data ss:Type="String">#791615</Data></Cell>
+    <Cell><Data ss:Type="String">#f5f5f5</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.theclubdiner.com/</Data></Cell>
+    <Cell><Data ss:Type="String">https://ordering.chownow.com/order/8864/locations/</Data></Cell>
+    <Cell><Data ss:Type="String">https://play.google.com/store/apps/details?id=com.chownow.clubdiner</Data></Cell>
+    <Cell><Data ss:Type="String">https://itunes.apple.com/us/app/club-diner/id1282159723?mt=8</Data></Cell>
+    <Cell><Data ss:Type="String">http://lksn.se/clubdiner</Data></Cell>
+    <Cell><Data ss:Type="String">https://ordering.chownow.com/order/8864/locations/12013</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">8864</Data></Cell>
+    <Cell><Data ss:Type="String">Club Diner</Data></Cell>
+    <Cell><Data ss:Type="String">20 N Black Horse Pike, Bellmawr, NJ 08031</Data></Cell>
+    <Cell><Data ss:Type="String">#791615</Data></Cell>
+    <Cell><Data ss:Type="String">#f5f5f5</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.theclubdiner.com/</Data></Cell>
+    <Cell><Data ss:Type="String">https://ordering.chownow.com/order/8864/locations/</Data></Cell>
+    <Cell><Data ss:Type="String">https://play.google.com/store/apps/details?id=com.chownow.clubdiner</Data></Cell>
+    <Cell><Data ss:Type="String">https://itunes.apple.com/us/app/club-diner/id1282159723?mt=8</Data></Cell>
+    <Cell><Data ss:Type="String">http://lksn.se/clubdiner</Data></Cell>
+    <Cell><Data ss:Type="String">https://ordering.chownow.com/order/8864/locations/12013</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">8864</Data></Cell>
+    <Cell><Data ss:Type="String">Club Diner</Data></Cell>
+    <Cell><Data ss:Type="String">20 N Black Horse Pike, Bellmawr, NJ 08031</Data></Cell>
+    <Cell><Data ss:Type="String">#791615</Data></Cell>
+    <Cell><Data ss:Type="String">#f5f5f5</Data></Cell>
+    <Cell><Data ss:Type="String">http://www.theclubdiner.com/</Data></Cell>
+    <Cell><Data ss:Type="String">https://ordering.chownow.com/order/8864/locations/</Data></Cell>
+    <Cell><Data ss:Type="String">https://play.google.com/store/apps/details?id=com.chownow.clubdiner</Data></Cell>
+    <Cell><Data ss:Type="String">https://itunes.apple.com/us/app/club-diner/id1282159723?mt=8</Data></Cell>
+    <Cell><Data ss:Type="String">http://lksn.se/clubdiner</Data></Cell>
+    <Cell><Data ss:Type="String">https://ordering.chownow.com/order/8864/locations/12013</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>5</ActiveRow>
+     <ActiveCol>3</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
